@@ -3,6 +3,8 @@
 # 💫 About Me:
 I am a Data Engineer / Python Developer <br>Currently working on full stack react applications <br>and <br>Data Engineering related to Actuarial Sciences, ETL workflows, and DevOps tooling<br>
 
+Check out my portfolio site at https://www.jpemery.dev
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-j-p-emery-26318679/) 
